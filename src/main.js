@@ -1,5 +1,19 @@
 import { createApp } from 'vue'
 import App from './App.vue'
 import './index.css'
+import { FontAwesomeIcon } from "@fortawesome/vue-fontawesome";
+import { library } from "@fortawesome/fontawesome-svg-core";
+import {
+    faMoon,
+    faArrowLeftLong,
+    faTriangleExclamation,
+    faVideo,
+    faClock,
+    faWifiStrong
+} from "@fortawesome/free-solid-svg-icons";
 
-createApp(App).mount('#app')
+library.add(faMoon, faArrowLeftLong, faTriangleExclamation, faVideo, faClock, faWifiStrong);
+
+
+
+createApp(App).component("font-awesome-icon", FontAwesomeIcon).mount('#app')
