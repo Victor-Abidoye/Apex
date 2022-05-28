@@ -9,10 +9,11 @@ import {
     faTriangleExclamation,
     faVideo,
     faClock,
-    faWifiStrong
+    faWifiStrong,
+    faRepeat,
 } from "@fortawesome/free-solid-svg-icons";
 
-library.add(faMoon, faArrowLeftLong, faTriangleExclamation, faVideo, faClock, faWifiStrong);
+library.add(faMoon, faArrowLeftLong, faTriangleExclamation, faVideo, faClock, faWifiStrong, faRepeat);
 
 
 

@@ -1,5 +1,5 @@
 <template>
-    <div class="h-[790px] lg:h-[400px]" >
+    <div class="h-[790px] md:h-[600px] lg:h-[400px]" >
         <p class="text-[32px] font-bold leading-[40px] text-center py-5">Features for a better experience</p>
         <div class="flex flex-col items-center md:flex-row md:flex-wrap md:justify-around gap-5">
 
