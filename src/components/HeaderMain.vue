@@ -10,7 +10,7 @@
         Great software that allows you to chat from any place at any time
         without any interruption.
       </p>
-      <Button content="Get started now" class="mb-6 md:mb-10" />
+      <Button content="Get started now &#10140;" class="mb-6 md:mb-10" />
       <div class="flex flex-wrap gap-x-5 gap-y-5">
         <div class="flex">
           <img
