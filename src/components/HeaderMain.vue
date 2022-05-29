@@ -67,7 +67,7 @@
           src="../assets/man2.svg"
           alt=""
         />
-        <div class="w-[70%]">
+        <div class="w-[65%]">
           <p class="text-[6px] font-bold">Jenny Wilson</p>
           <p class="text-[6px]">
             I commented on Figma, I want to add some fancy icons. Do you have
@@ -81,7 +81,7 @@
           src="../assets/man2.svg"
           alt=""
         />
-        <div class="w-[70%]">
+        <div class="w-[65%]">
           <p class="text-[6px] font-bold">Jenny Wilson</p>
           <p class="text-[6px]">
             I commented on Figma, I want to add some fancy icons. Do you have

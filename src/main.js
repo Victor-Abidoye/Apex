@@ -11,9 +11,11 @@ import {
     faClock,
     faWifiStrong,
     faRepeat,
+    faComment,
+    faEnvelope
 } from "@fortawesome/free-solid-svg-icons";
 
-library.add(faMoon, faArrowLeftLong, faTriangleExclamation, faVideo, faClock, faWifiStrong, faRepeat);
+library.add(faMoon, faArrowLeftLong, faTriangleExclamation, faVideo, faClock, faWifiStrong, faRepeat, faComment, faEnvelope);
 
 
 
