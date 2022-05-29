@@ -1,6 +1,6 @@
 <template>
     <div class="h-[650px] md:h-[480px] lg:h-[585px] flex flex-col items-center px-5 md:px-10 lg:px-14 py-5 bg-[#F8F8FA] md:flex-row" >
-        <div class="w-[350px] h-[245px]  lg:h-[376px]  bg-[url('./src/assets/call.svg')] bg-cover bg-center bg- lg:w-[50%] relative">
+        <div class="w-[350px] h-[245px]  lg:h-[376px]  bg-[url('/src/assets/call.svg')] bg-cover bg-center bg- lg:w-[50%] relative">
             <div class="h-[55px] w-full bg-[#12141D] opacity-90 absolute bottom-0 flex px-[10%] gap-x-10 items-center">
                 <font-awesome-icon icon="repeat"  color="#ffffff" />
                 <font-awesome-icon icon="video"  color="#ffffff" />

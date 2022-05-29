@@ -3,7 +3,7 @@
     class="h-[748px] md:h-[500px] lg:h-[645px] flex flex-col items-center px-5 md:px-10 lg:px-14 py-5 md:flex-row bg-[#F8F8FA]"
   >
     <div class="flex justify-center md:w-1/2">
-      <!-- <Inbox /> -->
+      <InboxCard/>
     </div>
 
     <div
@@ -50,6 +50,6 @@
 </template>
 
 <script setup>
-// import Inbox from './Inbox.vue'
+import InboxCard from './InboxCard.vue';
 </script>
 <style scoped></style>
