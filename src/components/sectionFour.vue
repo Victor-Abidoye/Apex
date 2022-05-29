@@ -2,7 +2,7 @@
     <div class="h-[748px] md:h-[500px] lg:h-[645px] flex flex-col items-center px-5 md:px-10  lg:px-14 py-5 md:flex-row bg-[#F8F8FA]" >
 
         <div class=" flex justify-center md:w-1/2">
-        <Inbox/>
+            <Inbox/>
         </div>
 
         <div class=" h-[60%] flex  flex-col justify-evenly lg:px-6 xl:px-10 md:w-1/2 md:px-6 ">
@@ -30,7 +30,7 @@
 </template>
 
 <script setup>
-import Inbox from "./Inbox.vue";
+import Inbox from './Inbox.vue';
 
 </script>
 <style scoped>
