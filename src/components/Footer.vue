@@ -14,7 +14,7 @@
         class="w-full flex flex-col items-center gap-y-8 md:flex-row md:justify-between"
       >
         <img src="../assets/Logo.svg" alt="" class="h-[50px] md:h-[40px]" />
-        <ul class="flex justify-evenly gap-x-10">
+        <ul class="flex justify-evenly gap-x-10  xl:gap-x-14">
           <li class="text-[16px] leading-[30px] font-medium text-[#1B1C20]">
             About
           </li>
@@ -28,11 +28,11 @@
             About
           </li>
         </ul>
-        <div class="flex gap-x-4 md:gap-x-5">
+        <div class="flex gap-x-4 md:gap-x-5 lg:gap-x-10">
           <img src="../assets/twitter.svg" alt="" />
-          <img src="../assets/twitter.svg" alt="" />
-          <img src="../assets/twitter.svg" alt="" />
-          <img src="../assets/twitter.svg" alt="" />
+          <img src="../assets/facebook.svg" alt="" />
+          <img src="../assets/instagram.svg" alt="" />
+          <img src="../assets/github.svg" alt="" />
         </div>
       </div>
       <div
