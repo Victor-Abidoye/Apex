@@ -12,7 +12,7 @@
     <div class="w-full flex gap-5 flex-col md:flex-row justify-around">
       <div class="flex flex-col items-center">
         <div
-          class="min-w-[343px] max-w-[600px] md:h-[280px] md:min-w-[auto] lg:h-fit rounded-md shadow-lg bg-white p-5"
+          class="min-w-[343px] max-w-[600px]  rounded-md shadow-lg bg-white p-5"
         >
           <h4
             class="text-[18px] leading-[26px] text-[#FD6003] font-bold pb-3 text-center lg:text-[20px] lg:leading-[28px]"
@@ -45,7 +45,7 @@
       </div>
       <div class="flex flex-col items-center">
         <div
-          class="min-w-[343px] max-w-[600px] md:h-[280px] md:min-w-[auto] lg:h-fit h-206px rounded-md shadow-lg bg-white p-5"
+          class="min-w-[343px] max-w-[600px]  h-206px rounded-md shadow-lg bg-white p-5"
         >
           <h4
             class="text-[18px] leading-[26px] text-[#FD6003] font-bold pb-3 text-center lg:text-[20px] lg:leading-[28px]"
@@ -67,7 +67,7 @@
         <div class="flex text-white gap-x-2">
           <img
             class="h-[62px] w-[62px] object-cover rounded-full"
-            src="../assets/woman.svg"
+            src="../assets/girlwood.svg"
             alt=""
           />
           <div>
